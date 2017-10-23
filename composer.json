@@ -1,6 +1,7 @@
 {
     "name": "samirmember/helpers",
     "description": "Helpers of the communs projects.",
+    "version": "1.0.0",
     "type": "yii2-compoents",
     "homepage": "https://github.com/samirmember/helpers",
     "license": "BSD-3-Clause",
