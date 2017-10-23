@@ -1,0 +1,35 @@
+{
+    "name": "samirmember/helpers",
+    "description": "Helpers of the communs projects.",
+    "type": "yii2-compoents",
+    "homepage": "https://github.com/samirmember/helpers",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Samir IZZA",
+            "email": "samirmember@gmail.com",
+            "homepage": "https://github.com/samirmember",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/samirmember/helpers/issues?state=open",
+        "source": "https://github.com/samirmember/helpers"
+    },
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.*",
+    },
+    "autoload": {
+        "psr-4": {
+            "samirmember\\helpers\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        },
+    }
+}
